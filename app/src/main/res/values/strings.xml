@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="btn_TellMe">Tell Me What to do !</string>
+    <string name="use_your_own_brain_lazy_man">Use Your Own Brain Lazy Man</string>
+    <string name="ask">Ask</string>
+    <string name="changing_answer">changing answer</string>
 </resources>
